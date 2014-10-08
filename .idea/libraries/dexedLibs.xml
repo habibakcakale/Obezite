@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-sqlite-asset-helper-310e43fdc56a240fb9aba4aa1e5845f9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-cd224f036f863108ccfb5ae7fefefb4b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-sqlite-asset-helper-ffd2157b522e4bb72f83d1d4fc16341c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-fbd7c307ba0c4d2932dc5a4c6ed5782f.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
