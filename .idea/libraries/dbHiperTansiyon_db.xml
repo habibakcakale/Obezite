@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="dbHiperTansiyon.db">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/assets/databases/dbHiperTansiyon.db.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
